@@ -1,7 +1,7 @@
 +++
 title = 'How_to_add_blog_tut'
 date = 2024-08-06T18:39:11+05:00
-draft = true
+draft = false 
 +++
 
 ## this is for testing and tutorial purpose
