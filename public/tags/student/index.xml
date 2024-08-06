@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student on StormyCloud Inc</title>
+    <link>http://localhost:1313/tags/student/</link>
+    <description>Recent content in Student on StormyCloud Inc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2024 07:09:23 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/student/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who is Khan ?</title>
+      <link>http://localhost:1313/blogs/khan/</link>
+      <pubDate>Fri, 02 Aug 2024 07:09:23 +0500</pubDate>
+      <guid>http://localhost:1313/blogs/khan/</guid>
+      <description>Essay on Khan, a Computer Science Student Introduction Khan is a remarkable individual navigating the challenging yet rewarding field of computer science. As a student in this dynamic discipline, Khan&amp;rsquo;s journey is characterized by curiosity, perseverance, and a relentless pursuit of knowledge. This essay explores the various aspects of Khan&amp;rsquo;s academic and personal life, highlighting his achievements, aspirations, and the impact of his studies on his overall development.</description>
+    </item>
+  </channel>
+</rss>

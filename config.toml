@@ -1,4 +1,24 @@
 baseURL = 'http://hugo-quickstart-template.netlify.com'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'StormyCloud Inc'
 theme = 'netlify-basic'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Blogs'
+pageRef = '/blogs'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
