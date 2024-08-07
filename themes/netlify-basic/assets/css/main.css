@@ -576,3 +576,9 @@ a {
       margin-right: 7px;
   }
 }
+
+#linkwrapper {
+  display: block;
+  width: 100%;
+  position: relative;
+}
