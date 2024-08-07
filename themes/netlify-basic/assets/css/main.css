@@ -22,16 +22,12 @@ a {
   height: 100vh;
 }
 .nav-bar-con{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  font-weight: 500;
-  padding: 0 20px;
-  background-color: #000;
-  height: 10vh;
+  position: sticky;
   top: 0;
-  z-index: 1000;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+  padding: 10px 10px 4px;
+  border-bottom: 2px solid #14476c;
+  animation: down .1s ease .2s both;
 }
 .nav-links {
   list-style: none;
@@ -188,18 +184,18 @@ a {
 
 /* bottom bar */
 .bottom-bar{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #fff;
-  display: flex;
-  background-color: #000;
-  height: 5vh;
-  width: 100vw;
-  font-family: 'Inter';
-  font-size: 14px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-size: 75%;
+  padding: 3px 0 5px;
+  border-top: 2px solid #14476c;
+  background: #000;
+  text-align: center;
+  line-height: 1.5;
   font-weight: 700;
-  text-decoration: none;
+  animation: up .5s ease .8s both;
 }
 .bottom-pics{
   height: 20px;
