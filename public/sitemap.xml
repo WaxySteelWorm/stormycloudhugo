@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blogs/how_to_add_blog_tut/</loc>
+    <lastmod>2024-08-06T18:39:11+05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-06T18:39:11+05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/fiverr/</loc>
     <lastmod>2024-08-02T07:09:23+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/programmer/</loc>
-    <lastmod>2024-08-02T07:09:23+05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-02T07:09:23+05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/student/</loc>
